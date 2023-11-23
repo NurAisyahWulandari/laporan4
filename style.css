@@ -41,9 +41,9 @@ p {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: rgb(46, 26, 0) ;
+    background-color: rgb(64, 49, 0);
     color: #fff;
-    position: absolute;
+    position: relative;;
     bottom: 0;
     width: 100%;
 }
