@@ -5,10 +5,11 @@ body {
     background-color: #f4f4f4;
 }
 header {
+    flex-direction: column;
     background-image: url(h.png);
-    color: #fff;
     padding: 10px 0;
     text-align: center;
+    
 }
 nav {
     display: flex;
